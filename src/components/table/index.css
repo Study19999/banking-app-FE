@@ -1,0 +1,15 @@
+.table-main{
+    margin: 100px 200px 150px 400px;
+    width: 50%;
+    border-collapse: collapse;
+}
+.table-header{
+    padding: 8px;
+    border: 2px solid;
+    text-align: center;
+}
+.table-data{
+    padding: 8px;
+    border: 1px solid;
+    text-align: center;
+}
